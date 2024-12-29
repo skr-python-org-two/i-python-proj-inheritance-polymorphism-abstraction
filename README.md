@@ -10,5 +10,7 @@ Python project with inheritance , polymorphism and abstraction
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	a) inheritance
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	b) ploymorphism
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; c) abstraction
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Links:- https://www.geeksforgeeks.org/python-oops-concepts/
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Links:- https://www.geeksforgeeks.org/abstract-classes-in-python/?ref=lbp
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; OOPS Links:- https://www.geeksforgeeks.org/python-oops-concepts/
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Abstraction Links:- https://www.geeksforgeeks.org/abstract-classes-in-python/?ref=lbp
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Interface Links:- https://www.geeksforgeeks.org/python-interface-module/?ref=lbp
+
